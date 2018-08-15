@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45574162864",
+    "firebase_url": "https://totka-56118.firebaseio.com",
+    "project_id": "totka-56118",
+    "storage_bucket": "totka-56118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45574162864:android:e22c8021dfdb81a0",
+        "android_client_info": {
+          "package_name": "com.demo.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45574162864-0pv1hutps8fkp3m7n12ollu9oi8av8i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFLu7ZhFle2LqMF4PohEWVWTm7ET4GGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
